@@ -1,0 +1,208 @@
+[general]
+	#The Application ID of the Discord App to use. Replace this with your client id from the discord dashboard to change the name of the app
+	applicationID = 1048842070082732052
+	#Enable/Disable the mod
+	enabled = true
+	#Enable/Disable debugging mode. WARNING: MAY CAUSE LOG SPAM!
+	debugging = false
+	#Enable/Disable the in game config screen. ONLY AVAILABLE WHEN CLOTH CONFIG IS INSTALLED!
+	configScreen = false
+	#Display the Icon and Pack Name in place of LargeImage from compatible launchers. DOES NOT WORK WITH CUSTOM APPS! ONLY THE DEFAULT ONE!
+	launcherIntegration = false
+	#Internal Version Number. NO TOUCHY!
+	version = 18
+
+[init]
+	#Enable/Disable the Game Loading Event
+	enabled = true
+	#The first line of text under the app name
+	description = "Oyun yukleniyor..."
+	#The second line of text under the app name
+	state = ""
+	#The Asset ID/URL of the image to display as the large image
+	largeImageKey = ["minecraftnew"]
+	#The text that gets displayed when the large image is hovered
+	largeImageText = "%mods% mod"
+	#The Asset ID/URL of the image to display as the small image
+	smallImageKey = ["heart"]
+	#The text that gets displayed when the small image is hovered
+	smallImageText = "%player%"
+	#The buttons to display on Discord 
+
+	[[init.buttons]]
+		label = "Paketi indir"
+		url = "https://modrinth.com/user/JustWolter/modpacks"
+
+[main_menu]
+	#Enable/Disable the Main Menu Event
+	enabled = true
+	#The first line of text under the app name
+	description = "Ana Menu"
+	#The second line of text under the app name
+	state = ""
+	#The Asset ID/URL of the image to display as the large image
+	largeImageKey = ["minecraftnew"]
+	#The text that gets displayed when the large image is hovered
+	largeImageText = "%mods% mod"
+	#The Asset ID/URL of the image to display as the small image
+	smallImageKey = ["heart"]
+	#The text that gets displayed when the small image is hovered
+	smallImageText = "%player%"
+	#The buttons to display on Discord 
+
+	[[main_menu.buttons]]
+		label = "Paketi indir"
+		url = "https://modrinth.com/user/JustWolter/modpacks"
+
+[server_list]
+	#Enable/Disable the Server List Event
+	enabled = true
+	#The first line of text under the app name
+	description = "Sunucu listesinde"
+	#The second line of text under the app name
+	state = ""
+	#The Asset ID/URL of the image to display as the large image
+	largeImageKey = ["minecraftnew"]
+	#The text that gets displayed when the large image is hovered
+	largeImageText = "%mods% mod"
+	#The Asset ID/URL of the image to display as the small image
+	smallImageKey = ["heart"]
+	#The text that gets displayed when the small image is hovered
+	smallImageText = "%player%"
+	#The buttons to display on Discord 
+
+	[[server_list.buttons]]
+		label = "Paketi indir"
+		url = "https://modrinth.com/user/JustWolter/modpacks"
+
+[realms_list]
+	#Enable/Disable the Realms Screen Event
+	enabled = true
+	#The first line of text under the app name
+	description = "Realms listesinde"
+	#The second line of text under the app name
+	state = ""
+	#The Asset ID/URL of the image to display as the large image
+	largeImageKey = ["minecraftnew"]
+	#The text that gets displayed when the large image is hovered
+	largeImageText = "%mods% mod"
+	#The Asset ID/URL of the image to display as the small image
+	smallImageKey = ["heart"]
+	#The text that gets displayed when the small image is hovered
+	smallImageText = "%player%"
+	#The buttons to display on Discord 
+
+	[[realms_list.buttons]]
+		label = "Paketi indir"
+		url = "https://modrinth.com/user/JustWolter/modpacks"
+
+[join_game]
+	#Enable/Disable the Join Game Event
+	enabled = true
+	#The first line of text under the app name
+	description = "Oyuna katiliyor..."
+	#The second line of text under the app name
+	state = ""
+	#The Asset ID/URL of the image to display as the large image
+	largeImageKey = ["minecraftnew"]
+	#The text that gets displayed when the large image is hovered
+	largeImageText = "%mods% mod"
+	#The Asset ID/URL of the image to display as the small image
+	smallImageKey = ["heart"]
+	#The text that gets displayed when the small image is hovered
+	smallImageText = "%player%"
+	#The buttons to display on Discord 
+
+	[[join_game.buttons]]
+		label = "Paketi indir"
+		url = "https://modrinth.com/user/JustWolter/modpacks"
+
+[single_player]
+	#Enable/Disable the Single Player Event
+	enabled = true
+	#The first line of text under the app name
+	description = "%world%"
+	#The second line of text under the app name
+	state = ""
+	#The Asset ID/URL of the image to display as the large image
+	largeImageKey = ["minecraftnew"]
+	#The text that gets displayed when the large image is hovered
+	largeImageText = "%mods% mod"
+	#The Asset ID/URL of the image to display as the small image
+	smallImageKey = ["heart"]
+	#The text that gets displayed when the small image is hovered
+	smallImageText = "%player%"
+	#The buttons to display on Discord 
+
+	[[single_player.buttons]]
+		label = "Paketi indir"
+		url = "https://modrinth.com/user/JustWolter/modpacks"
+
+[multi_player]
+	#Enable/Disable the Multi Player Event
+	enabled = true
+	#The first line of text under the app name
+	description = "%servername% sunucusunda"
+	#The second line of text under the app name
+	state = "%players% kisi"
+	#The Asset ID/URL of the image to display as the large image
+	largeImageKey = ["minecraftnew"]
+	#The text that gets displayed when the large image is hovered
+	largeImageText = "%mods% mod"
+	#The Asset ID/URL of the image to display as the small image
+	smallImageKey = ["heart"]
+	#The text that gets displayed when the small image is hovered
+	smallImageText = "%player%"
+	#The buttons to display on Discord 
+
+	[[multi_player.buttons]]
+		label = "Paketi indir"
+		url = "https://modrinth.com/user/JustWolter/modpacks"
+
+[realms]
+	#Enable/Disable the Realms Game Event
+	enabled = true
+	#The first line of text under the app name
+	description = "%realmname% sunucusunda"
+	#The second line of text under the app name
+	state = ""
+	#The Asset ID/URL of the image to display as the large image
+	largeImageKey = ["minecraftnew"]
+	#The text that gets displayed when the large image is hovered
+	largeImageText = "%mods% mod"
+	#The Asset ID/URL of the image to display as the small image
+	smallImageKey = ["heart"]
+	#The text that gets displayed when the small image is hovered
+	smallImageText = "%player%"
+	#The buttons to display on Discord 
+	buttons = []
+
+[generic]
+	#The first line of text under the app name
+	description = "Metin Girin..."
+	#The second line of text under the app name
+	state = ""
+	#The Asset ID/URL of the image to display as the large image
+	largeImageKey = ["minecraftnew"]
+	#The text that gets displayed when the large image is hovered
+	largeImageText = "%mods% mod"
+	#The Asset ID/URL of the image to display as the small image
+	smallImageKey = ["heart"]
+	#The text that gets displayed when the small image is hovered
+	smallImageText = "%player%"
+	#The buttons to display on Discord 
+
+	[[generic.buttons]]
+		label = "Paketi indir"
+		url = "https://modrinth.com/user/JustWolter/modpacks"
+
+[custom]
+	#Must these variables be parsed along with other variables
+	enabled = false
+	#Your custom variables to add
+	variables = []
+
+[dimension_overrides]
+	enabled = false
+	dimensions = []
+
