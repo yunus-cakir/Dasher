@@ -1,5 +1,5 @@
 [![Mod Loader](https://img.shields.io/badge/Mod%20Loader-Fabric-blue?style=for-the-badge "Fabric")](https://fabricmc.net/use/installer/)
-[![Modrinth Page](https://img.shields.io/badge/Modrinth-20B2AA?style=for-the-badge)](https://modrinth.com/modpack/dasher)
+[![Modrinth Page](https://img.shields.io/badge/Modrinth-PAGE-PAGE?style=for-the-badge&logo=modrinth)](https://modrinth.com/modpack/dasher)
 
 # Dasher
 
