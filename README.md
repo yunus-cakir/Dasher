@@ -5,6 +5,27 @@
 
 Dev Github for the modpack Dasher
 
+![Logo 2](https://github.com/yunus-cakir/Dasher/assets/83448525/0db23f0b-7989-4513-86b0-139d1dd0b9ec)
+
+## Optimization Pack that you can play in the servers and more!
+
+- ✅ Friend, Message And Invite System!
+- ✅ Multiplayer Server Support!
+- ✅ Shaders And Almost Every Optifine Features!
+- ✅ Decreased Loading Times
+- ✅ And FPS Boost of course :)
+ 
+## Some Of The Mods!
+- [3D Skin Layers](https://modrinth.com/mod/3dskinlayers/version/1.5.4-1.20)
+- [Essential](https://modrinth.com/mod/essential)
+- [Dynamic FPS](https://modrinth.com/mod/dynamic-fps/version/3.3.1)
+- [Iris](https://modrinth.com/mod/iris/version/1.6.11+1.20.1)
+- [Sodium](https://modrinth.com/mod/sodium/version/mc1.20.1-0.5.3)
+
+## Need A Server?
+
+[![Server](https://cdn.discordapp.com/attachments/1067121218198716547/1067204390819217509/Everside.png)](https://billing.kinetichosting.net/aff.php?aff=79)
+
 Suggestions and Bugs should go in [Issues](https://github.com/yunus-cakir/Dasher/issues), be as detailed as possible so things can be easy to add or fix!
 
 Does not include mods, or most configs.
